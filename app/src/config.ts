@@ -50,7 +50,7 @@ export interface HeroConfig {
 export const heroConfig: HeroConfig = {
   titleLine1: "MD ASIF",
   titleLine2: "KHAN",
-  subtitle: "Founder of The Foreshadow | Marketing Student at University of Dhaka",
+  subtitle: "",
   ctaText: "View My Work",
   ctaHref: "#portfolio",
   backgroundImage: "/images/hero-bg.jpg",
@@ -293,7 +293,7 @@ export interface SiteConfig {
 
 export const siteConfig: SiteConfig = {
   title: "Md Asif Khan - Portfolio",
-  description: "Portfolio of Md Asif Khan - Founder of The Foreshadow, Marketing Student at University of Dhaka.",
+  description: "",
   language: "en",
 };
 
