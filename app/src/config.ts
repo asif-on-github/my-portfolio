@@ -271,7 +271,7 @@ export const footerConfig: FooterConfig = {
   contact: {
     address: "Dhaka, Bangladesh",
     phone: "",
-    email: "mdasifkha.pers@gmail.com",
+    email: "mdasifkhan.pers@gmail.com",
   },
   legalLinks: [
     { label: "Privacy Policy", href: "#" },
@@ -624,7 +624,7 @@ export const contactConfig: ContactConfig = {
   headingMain: "Get In",
   headingAccent: " Touch",
   description: "Ready to collaborate? Let's create something amazing together!",
-  email: "mdasifkha.pers@gmail.com",
+  email: "mdasifkhan.pers@gmail.com",
   linkedin: "md-asif-khan-b92767279",
   location: "Dhaka, Bangladesh",
   availability: "Open for Opportunities",
